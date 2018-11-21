@@ -1,0 +1,22 @@
+{% extends 'catalog/base_generic.html' %}
+
+{% block content %}
+    <h1>{{ author.first_name }} {{ author.last_name }}</h1>
+    <p><strong>Date of birth:</strong> {{ author.date_of_birth }}</p>
+
+    <table>
+        <tr>
+            <th>Title</th>
+            <th>Genres</th>
+            <th>Available Copies</th>
+        </tr>
+        {% for book in author.book_set.all %}
+        <tr>
+            <td>{{ book.title }}</td>
+            <td>{{ book.display_genre }}</td>
+            <td>{{ book.get_available_count }}</td>
+        </tr>
+        {% endfor %}
+    </table>
+
+{% endblock %}
