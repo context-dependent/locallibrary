@@ -105,7 +105,7 @@ def renew_book_librarian(request, pk):
         # Check if the form is valid
         if form.is_valid():
             # Process the cleaned data and write it to the model
-            book_instance.due_back = form.cleaned_data['renewal_date']
+            book_instance.due_back = form.cleaned_data['due_back']
             book_instance.save()
 
             # Redirect to the all-books view
