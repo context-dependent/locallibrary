@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9fb251d5-f50e-473e-b04a-aef1c1f2bff1" name="Default Changelist" comment="" />
+    <list default="true" id="9fb251d5-f50e-473e-b04a-aef1c1f2bff1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -213,6 +216,9 @@
       <find>timedel</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -259,6 +265,7 @@
     <option name="width" value="1440" />
     <option name="height" value="780" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -269,35 +276,6 @@
           <expand>
             <path>
               <item name="locallibrary" type="b2602c69:ProjectViewProjectNode" />
-              <item name="locallibrary" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="locallibrary" type="b2602c69:ProjectViewProjectNode" />
-              <item name="locallibrary" type="462c0819:PsiDirectoryNode" />
-              <item name="catalog" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="locallibrary" type="b2602c69:ProjectViewProjectNode" />
-              <item name="locallibrary" type="462c0819:PsiDirectoryNode" />
-              <item name="catalog" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="locallibrary" type="b2602c69:ProjectViewProjectNode" />
-              <item name="locallibrary" type="462c0819:PsiDirectoryNode" />
-              <item name="catalog" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="locallibrary" type="b2602c69:ProjectViewProjectNode" />
-              <item name="locallibrary" type="462c0819:PsiDirectoryNode" />
-              <item name="catalog" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="catalog" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="locallibrary" type="b2602c69:ProjectViewProjectNode" />
-              <item name="locallibrary" type="462c0819:PsiDirectoryNode" />
               <item name="locallibrary" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -386,8 +364,8 @@
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" weight="0.329718" />
-      <window_info active="true" anchor="bottom" id="Terminal" sideWeight="0.49946696" visible="true" weight="0.329718" />
-      <window_info anchor="bottom" id="Event Log" sideWeight="0.50053304" side_tool="true" visible="true" weight="0.329718" />
+      <window_info active="true" anchor="bottom" id="Terminal" sideWeight="0.9104478" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.08955224" side_tool="true" visible="true" weight="0.329718" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
